@@ -117,6 +117,11 @@
     ora "4.0.2"
     rxjs "6.5.3"
 
+"@angular-eslint/builder@^0.0.1-alpha.20":
+  version "0.0.1-alpha.20"
+  resolved "http://localhost:8081/repository/npmjs-org/@angular-eslint/builder/-/builder-0.0.1-alpha.20.tgz#aee4a661e5632a1b69f3577881164487de43fbcc"
+  integrity sha512-XsxQp/F7RlHGr16CaltQKoFHETYuL8msPM9pef9wDxuGkCMqEce6aCyu7YqOp1frSbJBf24XDaAPj5n6p8OCaA==
+
 "@angular/animations@~9.0.5":
   version "9.0.6"
   resolved "http://localhost:8081/repository/npmjs-org/@angular/animations/-/animations-9.0.6.tgz#d0c26f9e103948989416f7d8c26b5f5fd298d4a4"
