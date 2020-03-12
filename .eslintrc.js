@@ -14,6 +14,11 @@ module.exports = {
         "sourceType": "module"
     },
     "plugins": [
+        "@angular-eslint/eslint-plugin-template",
+        "@angular-eslint/eslint-plugin",
+        "prefer-arrow",
+        "jsdoc",
+        "import",
         "@typescript-eslint",
         "@typescript-eslint/tslint"
     ],
@@ -160,6 +165,7 @@ module.exports = {
         "@typescript-eslint/tslint/config": [
             "error",
             {
+                "rulesDirectory": ['codelyzer'],
                 "rules": {
                     "component-class-suffix": true,
                     "component-selector": [
