@@ -40,5 +40,5 @@ yarn add -D @angular-eslint/eslint-plugin
     #     "@typescript-eslint",
     #     "@typescript-eslint/tslint"
     # ],
-yarn add -D @angular-eslint/template-parser
-
+## plugin for parser angular specific rules 
+yarn add -D @angular-eslint/template-parser @angular-eslint/eslint-plugin-template
